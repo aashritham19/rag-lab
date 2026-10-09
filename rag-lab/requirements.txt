@@ -1,0 +1,5 @@
+streamlit
+chromadb
+google-genai
+pypdf
+pysqlite3-binary; sys_platform == "linux"
